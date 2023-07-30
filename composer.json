@@ -1,0 +1,19 @@
+{
+    "name": "animalinstinct/laravel-admin",
+    "description": "Another admin panel for Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Animalinstinct\\LaravelAdmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksandr Makarov",
+            "email": "alexander.makaroff@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
